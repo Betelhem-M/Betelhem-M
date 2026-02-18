@@ -13,25 +13,41 @@
 
 <img align="right" width="280" alt="coding gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I’m Frontend-focused developer passionate about building clean, responsive, and user-centered web interfaces. 
-I enjoy transforming ideas into interactive digital experiences using modern web technologies.
+Frontend-focused developer building clean, responsive, user-centered interfaces.
 
-🚀 Currently Growing In
+Currently growing into backend development and exploring cybersecurity to build secure, scalable systems.
 
-Building strong backend fundamentals — learning how to create APIs, manage databases, and develop full-stack applications using Node.js and server-side frameworks.
+<p align="center">
+🚀 Focus Areas
+</p> 
 
-🔐 Cybersecurity Interest
+✔ Frontend Development: 
 
-Deeply interested in understanding system security, vulnerabilities, and secure coding practices. My goal is to build applications that are not only functional but protected.
+Building smooth, responsive interfaces and turning ideas into interactive experiences.
+_______________________________________________________________________________________________________
 
-🎯 Long-Term Vision
+✔ Backend Development (In Progress):
 
-To combine full-stack development with cybersecurity knowledge and create secure, scalable, and reliable systems.
+Learning how systems work behind the scenes — APIs, databases, and server logic.
+________________________________________________________________________________________________________
 
+✔ 🔐 Cybersecurity Fundamentals:
+
+Exploring system security, vulnerabilities, and secure coding to build safer applications
+_________________________________________________________________________________________________________
+
+<p align="center">
+  🎯 Long-Term Vision
+</p>
+
+✔ To combine full-stack development with cybersecurity knowledge and create secure, scalable, and reliable systems.
+
+✔ My goal is to build applications that are not only functional but protected.
+__________________________________________________________________________________________________________
 📚 Mindset
 
-Committed to continuous learning, consistent practice, and building real-world projects to improve every day
-
+Committed to continuous learning, consistent practice, and building real-world projects to improve every day.
+__________________________________________________________________________________________________________
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend

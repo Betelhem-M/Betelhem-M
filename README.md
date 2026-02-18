@@ -13,12 +13,18 @@
 
 <img align="right" width="280" alt="coding gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I’m a **Front-End Developer** and an **ongoing Back-End Developer** with a strong passion for:
+I’m  
+🎨 Frontend-focused developer with a strong foundation in building clean, responsive, and user-centered web interfaces. 
+    I enjoy turning ideas into interactive digital experiences using modern web technologies.
 
-- 🔐 Cybersecurity (ethical hacking)  
-- 🧩 Building things, breaking them (ethically 😄), and making them smarter
+⚙️ Currently expanding my skills into backend development to better understand how systems work behind the scenes — learning how to build APIs, manage databases, and 
+    connect full-stack applications using technologies like Node.js and server-side frameworks.
 
----
+🔐 Strong interest in cybersecurity. Passionate about understanding how systems are secured, how vulnerabilities are exploited, and how to build safer applications.
+
+🚀 Long-term goal: Combine full-stack development with cybersecurity knowledge to create secure, scalable, and reliable systems.
+
+📚 Believe in continuous learning, consistent practice, and building real-world projects to grow every day
 
 ## 🛠️ Tech Stack
 
@@ -31,24 +37,7 @@ I’m a **Front-End Developer** and an **ongoing Back-End Developer** with a str
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
-
-
-## 🔐 Cybersecurity (Learning)
-
-- Networking fundamentals  
-- Web security basics  
-- Ethical hacking concepts  
-
----
-
-## 📌 Current Focus
-
-✔ Strengthening backend architecture  
-✔ Building secure full-stack applications  
-✔ Learning ethical hacking step-by-step  
- 
-
----
+.
 
 
 

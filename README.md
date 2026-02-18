@@ -13,18 +13,24 @@
 
 <img align="right" width="280" alt="coding gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I’m  
-🎨 Frontend-focused developer with a strong foundation in building clean, responsive, and user-centered web interfaces. 
-    I enjoy turning ideas into interactive digital experiences using modern web technologies.
+I’m Frontend-focused developer passionate about building clean, responsive, and user-centered web interfaces. 
+I enjoy transforming ideas into interactive digital experiences using modern web technologies.
 
-⚙️ Currently expanding my skills into backend development to better understand how systems work behind the scenes — learning how to build APIs, manage databases, and 
-    connect full-stack applications using technologies like Node.js and server-side frameworks.
+🚀 Currently Growing In
 
-🔐 Strong interest in cybersecurity. Passionate about understanding how systems are secured, how vulnerabilities are exploited, and how to build safer applications.
+Building strong backend fundamentals — learning how to create APIs, manage databases, and develop full-stack applications using Node.js and server-side frameworks.
 
-🚀 Long-term goal: Combine full-stack development with cybersecurity knowledge to create secure, scalable, and reliable systems.
+🔐 Cybersecurity Interest
 
-📚 Believe in continuous learning, consistent practice, and building real-world projects to grow every day
+Deeply interested in understanding system security, vulnerabilities, and secure coding practices. My goal is to build applications that are not only functional but protected.
+
+🎯 Long-Term Vision
+
+To combine full-stack development with cybersecurity knowledge and create secure, scalable, and reliable systems.
+
+📚 Mindset
+
+Committed to continuous learning, consistent practice, and building real-world projects to improve every day
 
 ## 🛠️ Tech Stack
 

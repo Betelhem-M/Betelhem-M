@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Full-Stack%20Developer%20in%20Progress&fontSize=40&fontColor=ffffff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;Back-End+Developer+in+Progress;Cybersecurity+%28Ethical+Hacking%29+Enthusiast;" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;Back-End+Developer;Cybersecurity+in+progress+;" />
 
 </div>
 
@@ -26,12 +26,12 @@ Currently growing into backend development and exploring cybersecurity to build 
 Building smooth, responsive interfaces and turning ideas into interactive experiences.
 _______________________________________________________________________________________________________
 
-✔ Backend Development (In Progress):
+✔ Backend Development:
 
 Learning how systems work behind the scenes — APIs, databases, and server logic.
 ________________________________________________________________________________________________________
 
-✔ 🔐 Cybersecurity Fundamentals:
+✔ 🔐 Cybersecurity Fundamentals (In Progress):
 
 Exploring system security, vulnerabilities, and secure coding to build safer applications
 _________________________________________________________________________________________________________

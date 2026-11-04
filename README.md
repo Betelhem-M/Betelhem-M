@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Full-Stack%20Developer%20in%20Progress&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Full-Stack%20Developer&fontSize=40&fontColor=ffffff" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;Back-End+Developer;Cybersecurity+in+progress+;" />
 
